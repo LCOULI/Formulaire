@@ -1,0 +1,116 @@
+/*Pour la page inscription et connexion*/
+body{
+    margin: 0;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: #0FC1E8;
+    color: #fff;
+ height: 120px;
+ padding: 0;
+ 
+ 
+}
+/*Pour ajuster l'element du header*/
+header p {
+    font-size: 1.5em;
+    margin-left: 30px;
+    padding-top: 20px;
+   
+}
+.form {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+   
+}
+.cont{
+    padding-top: 10px;
+    border-radius: 5px;
+    padding-left: 30px;
+    height: 500px;
+    width: 70%;
+    background-color: #F9F5F5;
+    margin: 0 auto;
+}
+.conx{
+    color: #0FC1E8;
+    border: #000000;
+    font-size: 25px;
+    text-decoration: none;
+}
+.ph {
+    font-size: 25px;
+    padding-top: 30px;
+    margin-right: 25%;
+}
+
+/*stylisation portant sur les boutons*/
+.button{
+    background-color: #0FC1E8;
+    color: #fff;
+    border-radius: 45px ;
+    border: 1px solid black;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+}
+.button a {
+    color: #fff;
+    text-decoration: none;
+    
+
+}
+/*Pour le mot "Inscription" */
+#in{
+    color: #0FC1E8;
+    font-size: 40px;
+    text-align: center;
+}
+/*Pour l'intérieure du formulaire*/
+.ecrt{
+    font-size: 1.3em;
+    border-radius: 5px;
+    border: solid 1px ;
+
+    background-color: #F9F5F5;
+    width: 150px;
+    padding: 10px;
+}
+/* Pour la partie "mot de passe confirmer" */
+#pass{
+    width: 300px;
+}
+
+
+
+    /*Pour la page acceuil*/
+    body{
+        background-color: #F9F5F5;
+    }
+    /*Pour le texte et le bouton ,portant sur l'ajustement*/
+    .bienvenu{
+        font-size: 3em;
+       text-align: center;
+       padding-top: 10%;
+    }
+    /*Le bouton uniquement*/
+     .bienvenu h1{
+        padding-bottom: 40px;
+     }
+
+   #Retour {
+    font-size: 30px;
+ }
+ .center{
+    width: 52%;
+    margin: 0 auto;
+ }
+
+
